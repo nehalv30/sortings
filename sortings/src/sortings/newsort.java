@@ -1,5 +1,5 @@
 package sortings;
-
+//insertion
 public class newsort {
 
 	 void sort(int arr[]) 
